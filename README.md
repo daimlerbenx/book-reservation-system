@@ -1,6 +1,6 @@
 # Book Reservation System
 
-**Book Reservation System** is a web application designed to manage book reservations and customer interactions. It allows users to search for books, request to borrow them, and manage their reservations. The system also includes an administrative interface for managing user accounts and book information.
+**Book Reservation System** is a web system designed to manage book reservations and customer interactions. It allows users to search for books, request to borrow them, and manage their reservations. The system also includes an administrative interface for managing user accounts and book information.
 
 ## Technology Stack
 
